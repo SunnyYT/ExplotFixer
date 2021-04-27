@@ -1,2 +1,3 @@
 permission: exploitfixer.alert
 message: '&c&lXenonFixer &7» &f%player% &7was caught lacking &f%count%'
+crash-time: 60000 # milliseconds
