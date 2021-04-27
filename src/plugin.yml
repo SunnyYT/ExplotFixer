@@ -1,0 +1,6 @@
+name: ExploitFixer
+author: dramatically
+version: 1.0.0
+description: Fixes FAWE Crash Exploit
+main: xenon.dev.exploitfixer.Main
+commands:
